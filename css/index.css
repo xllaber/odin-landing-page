@@ -94,3 +94,21 @@ h2{
     height: 420px;
     width: 270px;
 }
+
+.quote-container{
+    margin-top: 100px;
+    background-color: #acacac;
+    padding: 80px 150px;
+    text-align: justify;
+}
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+}
+
+.q-author{
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+}
