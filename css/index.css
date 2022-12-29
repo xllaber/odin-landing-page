@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display:flex;
+    flex-direction: column;
+}
+
+header{
+    background-color: #1f2937;
+    color: white;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a:hover{
+    color: tan;
+}
+
+.buy-link{
+    margin-left: auto;
+}
